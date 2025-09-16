@@ -13,7 +13,7 @@ const ContactSection = () => {
     {
       name: "LinkedIn",
       icon: Linkedin,
-      href: "https://linkedin.com/in/ayeshazahid",
+      href: "https://www.linkedin.com/in/ayesha-zahid-96a0a7324/",
       color: "text-secondary",
       bg: "bg-secondary/20"
     },
